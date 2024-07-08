@@ -1,0 +1,15 @@
+[
+  {
+    "nome": "Torta de Limão",
+    "categoria": "Sobremesas",
+    "ingredientes": [
+      "200g de biscoito maisena",
+      "100g de manteiga derretida",
+      "1 lata de leite condensado",
+      "Suco de 4 limões",
+      "Raspas de limão para decorar"
+    ],
+    "modo de Preparo": "Triture os biscoitos maisena e misture com a manteiga derretida. Forre o fundo de uma forma com essa mistura e leve à geladeira por 30 minutos. Misture o suco de limão com o leite condensado até obter um creme homogêneo. Espalhe esse creme sobre a base de biscoito e leve à geladeira por mais 1 hora. Decore com raspas de limão antes de servir.",
+    "id": "afd3b2ae-68dd-422a-b4e7-50dbee036e47"
+  }
+]
